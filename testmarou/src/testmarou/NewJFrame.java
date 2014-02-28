@@ -10,6 +10,11 @@ package testmarou;
  */
 public class NewJFrame extends javax.swing.JFrame {
 
+    
+    
+    
+    
+    //lololololololololololololololololololo
     /**
      * Creates new form NewJFrame
      */
